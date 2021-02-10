@@ -1,0 +1,8 @@
+1. Rename File htaccess, Letak File public_html
+   - Ganti Nama File Menjadi .htaccess
+2. Edit File config.php, Letak File public_html
+   - Sesaikan nama database, user database, & password database
+   - Sesuaikan Nama Domain
+3. Edit File setting.php, Letak File public_html/lib
+   - Sesuaikan Nama Domain
+4. Penginstalan Script Selesai.
